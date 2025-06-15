@@ -1,0 +1,9 @@
+## Testler
+
+Testleri çalıştırmak için:
+
+```bash
+python -m unittest discover -v tests
+
+pytest tests/ -v
+```
